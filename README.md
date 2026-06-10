@@ -31,7 +31,7 @@ This project demonstrates how Power BI can be used to transform raw data into ac
 
 ### Dashboard Overview
 
-![Dashboard Overview](Images/Dashboard_Overview.png)
+![Dashboard Overview](Main_Dashboard.png)
 
 ### Data Table View
 
